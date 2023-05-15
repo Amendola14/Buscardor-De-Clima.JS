@@ -82,15 +82,8 @@ p {
 
 img {
     max-width: 100%;
-    /* Hacemos que las imágenes se ajusten al ancho del contenedor */
     height: auto;
-    /* Mantenemos la relación de aspecto de la imagen */
-    display: block;
-    /* Eliminamos el espacio extra debajo de las imágenes */
-    margin: 0 auto;
-    /* Centramos las imágenes horizontalmente */
-    border: 5px solid #8B4513;
-    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+}
 }
 
 .weather-content {
